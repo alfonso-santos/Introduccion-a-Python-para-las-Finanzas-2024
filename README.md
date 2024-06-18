@@ -40,7 +40,7 @@ El curso de introducción a Python para finanzas busca dotar a los estudiantes d
 
 1. `Fundamentos de Python`
 
-   - Python core.
+   - Core de Python.
 
    - Listas y diccionarios.
 
@@ -50,11 +50,11 @@ El curso de introducción a Python para finanzas busca dotar a los estudiantes d
 
 2. `Herramientas de análisis de datos`
 
-   - Numpy: Se introducirá en el contexto de gestión de carteras para manipular y calcular operaciones numéricas complejas.
-
    - Pandas: Se aprenderá mediante un caso práctico de análisis de activos financieros, enfocándose en la limpieza de datos y manipulación de series temporales.
 
-   - Visualización y análisis estadístico: Incluye técnicas para realizar gráficos y regresiones lineales.
+   - Numpy: Se introducirá en el contexto de gestión de carteras para manipular y calcular operaciones numéricas complejas.
+
+   - Visualización y análisis estadístico: Incluye técnicas para realizar gráficos.
 
 3. `Aplicaciones financieras prácticas`
 
@@ -92,8 +92,30 @@ El curso de introducción a Python para finanzas busca dotar a los estudiantes d
 
    - Explicación de los retornos de un activo en función de otros activos.
 
-     - Regresiones lineales.
+     - Regresión lineal con una variable exógena.
+
+     - Regresión lineal con más de una variable exógena.
 
 ## Temario
 
-- TODO
+### Módulo 1. Fundamentos de Python
+
+### Tema 1. Entorno de desarrollo
+
+1.1 Google Colab - Colaboratory
+
+### Tema 2. Core de Python
+
+2.1 Syntaxis básica
+
+2.2 Variables
+
+2.3 Operadores
+
+2.6 Listas
+
+2.7 Diccionarios
+
+2.8 Condicionales y bucles
+
+2.9 Funciones

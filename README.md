@@ -119,3 +119,9 @@ El curso de introducción a Python para finanzas busca dotar a los estudiantes d
 2.8 Condicionales y bucles
 
 2.9 Funciones
+
+### Módulo 2. Aplicaciones Financieras
+
+2.1 Descarga y descripción de activos financieros
+
+2.2 Cálculos iniciales de carteras

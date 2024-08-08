@@ -125,3 +125,5 @@ El curso de introducción a Python para finanzas busca dotar a los estudiantes d
 2.1 Descarga y descripción de activos financieros
 
 2.2 Cálculos iniciales de carteras
+
+2.3 Generación aleatoria de carteras

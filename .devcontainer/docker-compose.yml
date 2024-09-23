@@ -8,15 +8,20 @@ services:
     volumes:
       # Mounts the project folder to '/workspace'. While this file is in .devcontainer,
       # mounts are relative to the first file in the list, which is a level up.
-      
+
+            
       # Sirve para la torre en casa
       #- "C:/Users/alfon/OneDrive-UAM-Prof/OneDrive - UAM/Finanzas y Tecnología/2024-2025/finanzas-tecnologia-practicas:/workspace:cached"
 
       # C:\Users\alfon\OneDrive-UAM-Prof\OneDrive - UAM\Finanzas y Tecnología\2024-2025
 
-      #- "C:/Users/alfon/OneDrive-UAM-Prof/OneDrive - UAM/Cursos Python/Intro Python 24-25:/workspace:cached"
+      # Sirve para la torre en casa
+      - "C:/Users/alfon/OneDrive-UAM-Prof/OneDrive - UAM/Cursos Python/Intro Python 24-25:/workspace:cached"
 
-      - "C:/Users/alfon/OneDrive - UAM/Cursos Python/Intro Python 24-25:/workspace:cached"
+      
+
+      # Sirve para samsung
+      #- "C:/Users/alfon/OneDrive - UAM/Cursos Python/Intro Python 24-25:/workspace:cached"
 
       
       #- "C:/Users/alfon/OneDrive - UAM/Finanzas y Tecnología/2024-2025/finanzas-tecnologia-practicas:/workspace:cached"
